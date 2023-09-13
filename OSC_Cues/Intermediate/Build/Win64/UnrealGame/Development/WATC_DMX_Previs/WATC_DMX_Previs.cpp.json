@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\watc\\unreal projects\\watc_dmx_previs\\intermediate\\source\\watc_dmx_previs.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\watc\\unreal projects\\watc_dmx_previs\\intermediate\\build\\win64\\watc_dmx_previs\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\watc\\unreal projects\\watc_dmx_previs\\intermediate\\build\\win64\\unrealgame\\development\\watc_dmx_previs\\definitions.watc_dmx_previs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
